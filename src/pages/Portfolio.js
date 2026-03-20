@@ -44,7 +44,14 @@ const projects = [
     desc: 'Freelance Website build with advance stack like Next.js and Bootstrap',
     img:'/assets/Freelance2.png',
     tech:['Next.js','Bootstrap','GitHub','Vercel']
-  }
+  },
+  {
+   id: 7,
+    title: 'Portfolio Site with improved ui ',
+    desc: 'React + Bootstrap personal portfolio with smooth animations and responsive design.',
+    img: '/assets/Portfolio.png',
+    tech: ['React', 'Bootstrap','GitHub','Render'],
+  },
 ];
 
 function Portfolio() {
