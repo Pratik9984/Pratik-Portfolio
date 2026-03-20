@@ -66,6 +66,7 @@ const projectData = {
     live: 'https://pratik-portfolio-jsfs.onrender.com',
     tech: ['React', 'Bootstrap', 'Render'],
     status: 'Live',
+  },
 };
 
 const statusColors = {
