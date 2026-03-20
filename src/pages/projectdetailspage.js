@@ -9,7 +9,7 @@ const projectData = {
     image: '/assets/Portfolio.png',
     github: 'https://github.com/Pratik9984/Portfolio',
     live: 'https://portfolio-02y6.onrender.com/',
-    tech: ['React', 'Bootstrap', 'Vercel'],
+    tech: ['React', 'Bootstrap', 'Render'],
     status: 'Live',
   },
   2: {
@@ -57,7 +57,15 @@ const projectData = {
     github:'https://github.com/Pratik9984/stackandscale',
     live: 'https://stackandscale-beta.vercel.app/',
     status:'Live',
-  }
+  },
+  7:{
+     title: 'Portfolio Site with improved ui ',
+    description: 'A modern, responsive portfolio built with React and Bootstrap. It showcases my services, projects, and contact info with premium UI/UX.',
+    image: '/assets/Portfolionew.png',
+    github: 'https://github.com/Pratik9984/Pratik-Portfolio',
+    live: 'https://pratik-portfolio-jsfs.onrender.com',
+    tech: ['React', 'Bootstrap', 'Render'],
+    status: 'Live',
 };
 
 const statusColors = {
