@@ -35,14 +35,14 @@ const projects = [
     id:5,
     title:'Freelance Website',
     desc: 'Freelance Website build with advance stack like Next.js and Bootstrap',
-    img:'/assets/Freelance.png',
+    img:'/assets/freelance.png',
     tech:['Next.js','Bootstrap','GitHub','Vercel']
   },
   {
     id:6,
     title:'Freelance Website With Improved UI',
     desc: 'Freelance Website build with advance stack like Next.js and Bootstrap',
-    img:'/assets/Freelance2.png',
+    img:'/assets/freelance2.png',
     tech:['Next.js','Bootstrap','GitHub','Vercel']
   },
   {
