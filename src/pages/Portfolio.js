@@ -49,7 +49,7 @@ const projects = [
    id: 7,
     title: 'Portfolio Site with improved ui ',
     desc: 'React + Bootstrap personal portfolio with smooth animations and responsive design.',
-    img: '/assets/Portfolio.png',
+    img: '/assets/Portfolionew.png',
     tech: ['React', 'Bootstrap','GitHub','Render'],
   },
 ];
