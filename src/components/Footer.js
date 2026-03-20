@@ -141,7 +141,11 @@ function Footer() {
             </div>
 
             {/* Nav links */}
-    
+            <nav className="d-flex gap-4 flex-wrap">
+              {navLinks.map(({ href, label }) => (
+                <a key={label} href={href} className="ft-nav-link">{label}</a>
+              ))}
+            </nav>
           </div>
 
           {/* Bottom row: copyright + socials + back to top */}
