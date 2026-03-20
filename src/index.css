@@ -1,0 +1,70 @@
+/* Global Dark Theme */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #0d1117; /* dark background */
+  color: #e6edf3; /* light text */
+  margin: 0;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5 {
+  font-weight: 700;
+  color: #ffffff;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #161b22 !important;
+  border-bottom: 1px solid #21262d;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: #e6edf3 !important;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #58a6ff !important; /* light blue hover */
+}
+
+/* Cards */
+.card {
+  background: #161b22;
+  border: 1px solid #21262d;
+  border-radius: 15px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(56, 139, 253, 0.2); /* soft blue glow */
+}
+
+/* Buttons */
+.btn-primary {
+  background: #58a6ff;
+  border: none;
+  border-radius: 30px;
+  padding: 10px 25px;
+  color: #0d1117;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  background: #1f6feb;
+  color: #fff;
+}
+
+.btn-outline-primary {
+  border-radius: 30px;
+  padding: 10px 25px;
+  border: 1px solid #58a6ff;
+  color: #58a6ff;
+  background: transparent;
+}
+
+.btn-outline-primary:hover {
+  background: #58a6ff;
+  color: #0d1117;
+}
