@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import ProjectCard from '../components/Projectcard';
-import { title } from 'framer-motion/client';
+
 
 const projects = [
   {
