@@ -52,6 +52,12 @@ const projects = [
     img: '/assets/Portfolionew.png',
     tech: ['React', 'Bootstrap','GitHub','Render'],
   },
+  {
+   id: 8,
+    title: 'Resume Analyzer',
+    desc: 'An AI-powered resume analyzer that evaluates PDF and DOCX CVs to provide users with an instant optimization score. It extracts document text and delivers structured, actionable feedback on strengths, weaknesses, and formatting to help users land more interviews.',
+    img: '/assets/Resume.png',
+    tech: ['HTML ','CSS', 'Flask', 'SQlite DB', 'GitHub','Render'],
 ];
 
 function Portfolio() {
