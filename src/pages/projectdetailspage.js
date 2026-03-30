@@ -75,6 +75,7 @@ const projectData = {
     live: 'https://ai-resume-analyzer-4-empf.onrender.com/',
     tech: ['Flask','SqliteDB','HTML', 'CSS', 'Render'],
     status: 'Live',
+},
 };
 
 const statusColors = {
