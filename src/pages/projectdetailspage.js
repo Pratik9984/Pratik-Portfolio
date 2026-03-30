@@ -67,6 +67,14 @@ const projectData = {
     tech: ['React', 'Bootstrap', 'Render'],
     status: 'Live',
   },
+  8:{
+      title: 'Resume Analyzer ',
+    description: 'An AI-powered resume analyzer that evaluates PDF and DOCX CVs to provide users with an instant optimization score. It extracts document text and delivers structured, actionable feedback on strengths, weaknesses, and formatting to help users land more interviews.',
+    image: '/assets/Resume.png',
+    github: 'https://github.com/Pratik9984/AI_RESUME_ANALYZER',
+    live: 'https://ai-resume-analyzer-4-empf.onrender.com/',
+    tech: ['Flask','SqliteDB','HTML', 'CSS', 'Render'],
+    status: 'Live',
 };
 
 const statusColors = {
